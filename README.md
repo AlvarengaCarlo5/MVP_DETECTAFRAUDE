@@ -18,4 +18,4 @@ python train.py --data creditcard.csv --split random --test_size 0.20 --val_size
 python train.py --data creditcard.csv --split random --test_size 0.20 --val_size 0.15
 
 V. Caso deseje visualizar as métricas, rode o comando abaixo
-type reports\metrics.json 
+- type reports\metrics.json 
