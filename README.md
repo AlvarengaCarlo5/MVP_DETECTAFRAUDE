@@ -19,3 +19,7 @@ python train.py --data creditcard.csv --split random --test_size 0.20 --val_size
 
 V. Caso deseje visualizar as métricas, rode o comando abaixo
 - type reports\metrics.json 
+
+
+Link para o COLAB
+https://colab.research.google.com/drive/1_6Gn_qfYTOhZFbFwEGitQwligh_RwZBG?usp=sharing
